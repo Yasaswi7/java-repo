@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoYkApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoYkApplication.class, args);
+
+		//SpringApplication.run(DemoYkApplication.class, args);
+		System.out.println("Push-test");
 	}
 
 }
