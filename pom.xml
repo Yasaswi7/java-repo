@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>demo_yk</artifactId>
+	<artifactId>Git-Clone</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo_yk</name>
 	<description>Demo project for Spring Boot</description>
@@ -110,7 +110,7 @@
 					</annotationProcessorPaths>
 				</configuration>
 			</plugin>
-			<plugin>
+			<plugin>ffde
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>

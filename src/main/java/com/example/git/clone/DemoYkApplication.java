@@ -1,6 +1,5 @@
-package com.example.demo_yk;
+package com.example.git.clone;
 
-import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
