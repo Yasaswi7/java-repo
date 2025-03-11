@@ -9,7 +9,7 @@ public class DemoYkApplication {
 	public static void main(String[] args) {
 
 		//SpringApplication.run(DemoYkApplication.class, args);
-		System.out.println("Push-test");
+		System.out.println("Push-test2");
 	}
 
 }
